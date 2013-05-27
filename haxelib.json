@@ -1,0 +1,11 @@
+{
+    "name": "stablexui",
+    "url": "http://github.com/darcyg/StablexUI",
+    "license": "MIT",
+    "tags": [ "cross", "utility", "ui"],
+    "description": "UI engine for Haxe NME designed to give as much freedom as possible in customizing UI",
+    "version": "0.2.0",
+    "releasenote": "add haxelib.xml and haxelib.json",
+    "contributors": [ "RealyUniqueName" , "Darcy.G" ],
+    "dependencies": {}
+}

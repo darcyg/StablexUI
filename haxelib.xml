@@ -1,0 +1,9 @@
+<project name="stablexui" url="http://github.com/darcyg/StablexUI" license="MIT">
+	<user name="RealyUniqueName"/>
+	<description><![CDATA[UI engine for Haxe NME designed to give as much freedom as possible in customizing UI]]></description>
+	<version name="0.2.0"><![CDATA[add haxelib.xml and haxelib.json]]></version>
+	<depends name="msignal"/>
+	<tag v="cross"/>
+	<tag v="utility"/>
+	<tag v="ui"/>
+</project>
